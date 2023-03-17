@@ -35,10 +35,10 @@ app.use(
 
 - la nomenclature recommandée pour les routes  ✔️
 => Les routes ont généralement la nomenclature suivante :
-> la constante correspondante à l'application (App ou router si fichier de route)
-> le verbe HTTP
-> le chemin d'accès (définition de la route)
-> la méthode du controleur associé à la requête
+ la constante correspondante à l'application (App ou router si fichier de route), 
+ le verbe HTTP, 
+ le chemin d'accès (définition de la route), 
+ la méthode du controleur associé à la requête,
 
 ## 💻 J'utilise
 
