@@ -6,7 +6,7 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌  ✔️
+- l'intéret de TypeScript dans l'IDE  ✔️
 => L'utilisation des types permet de controller le code, par exemple, de manière à recevoir ce qui est attendu au retour d'une fonction ou dans un de ses arguments. 
 Si nous avons besoin de manipuler un nombre en paramètre, nous ne voudrions pas recevoir une chaîne de caractère.
 Le fait de typer ce paramètre en "number" évitera les erreurs.
