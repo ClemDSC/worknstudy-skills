@@ -33,13 +33,13 @@ for(let i = 0; i < persons.length; i++){
 
 ### Utilisation dans un projet  ✔️
 
-[lGithub - Masterwild](https://github.com/ClemDSC/TeamKarma-P3-Masterwild)
+[Github - Masterwild](https://github.com/ClemDSC/TeamKarma-P3-Masterwild)
 
 Description : utilisation du langage javascript pour le front et le back.
 
 ### J'ai utilisé ce langage en production  ✔️
 
-[lGithub - Portfolio](https://github.com/ClemDSC/portfolio)
+[Github - Portfolio](https://github.com/ClemDSC/portfolio)
 
 Description : utilisation du langage javascript pour créer mon portfolio.
 
