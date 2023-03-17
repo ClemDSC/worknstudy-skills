@@ -6,30 +6,28 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Le rôle de l'OWASP ❌ / ✔️
-- Les injections SQL ❌ / ✔️
-- XSS ❌ / ✔️
-- CRSF ❌ / ✔️
+- Le rôle de l'OWASP  ✔️
+C'est une organisation internationale qui se consacre à la sécurité des applications web. L’un des principes fondamentaux de l’OWASP est que tous ses documents soient disponibles gratuitement et facilement accessibles sur son site web, ce qui permet à chacun d’améliorer la sécurité de ses propres applications web.
+
+- Les injections SQL ✔️ 
+Le but est d'exécuter toutes les requêtes qu’on veut dans la base de données de notre victime. Les injections se font par des points d'entrée comme les inputs des formulaires. Quand le formulaire est soumis, la requête est envoyée et l'injection est potentiellement exécutée.
+
+- XSS  ✔️
+Le principe est d'exécuter un script maison sur tous les navigateurs de tous les utilisateurs du site piraté.
+
+- CRSF  ✔️
+Le principe est d'xploiter la session d’une victime connectée au site cible pour exécuter des actions.
+Pour se défendre, la plupart des frameworks fournissent des jetons anti-CSRF.
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌ 
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ❌ 
 
-[lien github](...)
+### Utilisation en production si applicable ❌ 
 
-Description :
-
-### Utilisation en production si applicable❌ / ✔️
-
-[lien du projet](...)
-
-Description :
-
-### Utilisation en environement professionnel ❌ / ✔️
-
-Description :
+### Utilisation en environement professionnel ❌ 
 
 ## 🌐 J'utilise des ressources
 
