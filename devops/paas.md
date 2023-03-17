@@ -6,28 +6,22 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- ce que c'est ❌ / ✔️
-- comment deployer une application sur une PaaS ❌ / ✔️
+- ce que c'est  ✔️
+=> Il s'agit de services cloud proposé par des plateformes. Elles fournissent un environnement préconfiguré permettant de développer, d'exécuter et de gérer des applications sans avoir à concevoir et à maintenir toute l'infra-structure. 
+- comment deployer une application sur une PaaS  ✔️
+=> chaque plateforme fournit ses instructions propres. Vercel et Netlify notamment permettent de déployer des applications en ajoutant une configuration avec Github, et de faire de la CI/CD en écoutant une branche spécifique.
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌ 
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ❌ 
 
-[lien github](...)
+### Utilisation en production si applicable ❌ 
 
-Description :
+### Utilisation en environement professionnel ❌ 
 
-### Utilisation en production si applicable❌ / ✔️
 
-[lien du projet](...)
-
-Description :
-
-### Utilisation en environement professionnel ❌ / ✔️
-
-Description :
 
 ## 🌐 J'utilise des ressources
 
