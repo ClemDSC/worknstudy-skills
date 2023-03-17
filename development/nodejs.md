@@ -6,8 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple)  ✔️ => Ce type de système maintient le fonctionnement du serveur et permet la mise à jour instantannée dès qu'une modification sur un fichier est enregistrée (hot reload)
-- La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple)  ✔️ => La connexion se fait par le biais de variables d'environnement en lien avec la base de données selectionnée .
+- Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple)  ✔️ 
+- => Ce type de système maintient le fonctionnement du serveur et permet la mise à jour instantannée dès qu'une modification sur un fichier est enregistrée (hot reload)
+- La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple)  ✔️ 
+- => La connexion se fait par le biais de variables d'environnement en lien avec la base de données selectionnée .
   Exemple avec l'ORM Prisma et mySql :
 
 ```javascript
