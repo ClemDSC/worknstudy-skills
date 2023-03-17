@@ -21,7 +21,7 @@ DATABASE_URL =
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté  ✔️
 
 ```javascript
 const express = require("express");
@@ -37,13 +37,13 @@ const adminRoutes = require("./routes/adminRoutes");
 const userRoutes = require("./routes/userRoutes");
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
 [Github - Masterwild](https://github.com/ClemDSC/TeamKarma-P3-Masterwild/tree/main/backend)
 
 Description : back-end développé avec le framework Express.
 
-### Utilisation en production si applicable❌ 
+### Utilisation en production si applicable ❌ 
 
 [lien du projet](...)
 
